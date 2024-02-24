@@ -1,0 +1,7 @@
+{
+    "key.categories.randomblockplacement": "LosoweStawianieBloków",
+    "key.randomblockplacement.toggle": "Losowość wł/wył",
+    "msg.active": "Losowe zmienianie pomiędzy pozycjami %d oraz %d w ekwipunku",
+    "msg.inactive": "LosoweStawianieBloków nieaktywne",
+    "msg.cmderr": "Użyj /rblock off lub /rblock oraz dwóch liczb od 1 do 9"
+}

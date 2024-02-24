@@ -1,0 +1,7 @@
+{
+    "key.categories.randomblockplacement": "מיקום בלוקים אקראי",
+    "key.randomblockplacement.toggle": "אקראיות פועל/כבוי",
+    "msg.active": "החלפה בין תאים במלאי %d ו%d",
+    "msg.inactive": "מיקום בלוקים אקראי לא פעיל",
+    "msg.cmderr": "השתמשו ב/rblock off, או /rblock ושני מספרים בין 1 ל9"
+}

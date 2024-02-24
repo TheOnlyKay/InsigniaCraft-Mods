@@ -1,0 +1,7 @@
+{
+    "key.categories.randomblockplacement": "PoužítNáhodnýBlok",
+    "key.randomblockplacement.toggle": "NáhodnýVýběr zap/vyp",
+    "msg.active": "Náhodné přepínání pozic inventáře %d a %d",
+    "msg.inactive": "PoužítNáhodnýBlok vypnutý",
+    "msg.cmderr": "Použij /rblock off nebo /rblock a dvě čísla od 1 do 9"
+}
