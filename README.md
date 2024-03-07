@@ -2,6 +2,7 @@
 Custom Modpack for InsigniaCraft
 
 ## Included Mods
+- Armored Elytra
 - Atmosfera
 - BetterF3
 - Capes
@@ -9,6 +10,7 @@ Custom Modpack for InsigniaCraft
 - Continuity
 - Cupboard
 - Eating Animation
+- Elytra Trims
 - EntityCulling
 - Entity Model Features
 - Entity Texture Features
@@ -28,6 +30,7 @@ Custom Modpack for InsigniaCraft
 - NotEnoughAnimations
 - PresenceFootsteps
 - RandomBlockPlacement
+- Shulker Box Tooltip
 - Sodium
 - SoundPhysics Remastered
 - Status Fabric
