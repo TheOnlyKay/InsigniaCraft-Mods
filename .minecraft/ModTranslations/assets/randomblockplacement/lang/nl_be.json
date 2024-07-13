@@ -1,7 +1,0 @@
-{
-    "key.categories.randomblockplacement": "RandomBlockPlacement",
-    "key.randomblockplacement.toggle": "Willekeurig aan/uit",
-    "msg.active": "Willekeurig wisselen tussen inventaris posities %d en %d",
-    "msg.inactive": "RandomBlockPlacement inactief",
-    "msg.cmderr": "Gebruik /rblock off of /rblock en twee getallen van 1 tot 9"
-}

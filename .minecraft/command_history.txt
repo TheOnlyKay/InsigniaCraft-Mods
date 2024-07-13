@@ -1,0 +1,13 @@
+/chunky world minecraft:overworld
+/chunky shape square
+/chunky center 0 0
+/chunky start
+/chunky progress
+/chunky radius 10000
+/chunky start
+/chunky progress
+/chunky cancel
+/chunky confirm
+/chunky world minecraft:the_end
+/chunky radius 5000
+/chunky start

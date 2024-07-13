@@ -1,0 +1,42 @@
+
+[light_sources]
+	water_sensitive_check = true
+	block_entities = true
+	entities = true
+	self = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				chicken = true
+				axolotl = true
+				bee = true
+				trader_llama = true
+				cow = true
+				chest_minecart = true
+				slime = true
+				skeleton = true
+				bat = true
+				zombified_piglin = true
+				zombie = true
+				armor_stand = true
+				drowned = true
+				sheep = true
+				player = true
+				wolf = true
+				wandering_trader = true
+				zombie_villager = true
+				item_frame = true
+				hopper_minecart = true
+				phantom = true
+				leash_knot = true
+				painting = true
+				glow_squid = true
+				witch = true
+				glow_item_frame = true
+				spider = true
+				creeper = true
+				enderman = true
+
